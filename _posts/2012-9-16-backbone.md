@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "Backbone"
 description: ""
 category: Advanced client side

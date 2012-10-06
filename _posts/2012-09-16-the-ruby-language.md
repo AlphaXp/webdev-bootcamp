@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "The Ruby Language"
 description: ""
 category: Ruby

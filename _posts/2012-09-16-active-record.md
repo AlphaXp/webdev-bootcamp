@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "Active Record"
 description: ""
 category: Ruby
@@ -54,14 +54,14 @@ Basics
         >
         > If you don't want people to do this:
         >
-:::ruby}
+{% highlight ruby linenos%}
 @user.update_attributes({ :favorite_color => 'blue', 
                           :password => 'hacked'})
 
         >
         > You need to do this:
         >
-:::ruby
+{% endhighlight%}
 class User < ActiveRecord::Base
   attr_protected :password
 end

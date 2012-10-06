@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "Ruby Debugging"
 description: ""
 category: Ruby

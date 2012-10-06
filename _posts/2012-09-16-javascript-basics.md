@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "javascript basics"
 description: ""
 category: javascript

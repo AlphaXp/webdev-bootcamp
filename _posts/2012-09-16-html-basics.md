@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "html basics"
 description: ""
 category: html
