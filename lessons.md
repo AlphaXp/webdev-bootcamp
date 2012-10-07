@@ -21,6 +21,7 @@ Javascript
 ----------
 1. [basic javascript](javascript/javascript-basics)
 2. [advanced javascript](javascript/advanced-javascript)
+3. [Coffeescript](javascript/coffeescript)
 
 Ruby
 ----
