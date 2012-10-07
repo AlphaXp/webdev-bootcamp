@@ -37,6 +37,7 @@ Databae
 Rails
 -------
 1. [Rails](rails/rails)
+2. [Authentication and authorization](rails/authentication-and-authorization)
 
 Javascript frameworks
 ----------------------
