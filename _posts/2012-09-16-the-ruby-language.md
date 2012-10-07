@@ -10,7 +10,7 @@ tags: []
 Part 1 - The Ruby Language
 ==========================
 
-[Back](../index.html)
+
 
 Demonstration \#1
 -----------------

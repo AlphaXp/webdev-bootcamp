@@ -10,7 +10,7 @@ tags: []
 Part 7 - Backbone
 =================
 
-[Back](../index.html)
+
 
 Introduction
 ------------

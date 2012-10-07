@@ -1,7 +1,7 @@
 Final Projects Ideas
 ====================
 
-[Back](../index.html)
+
 
 Task Management
 ---------------

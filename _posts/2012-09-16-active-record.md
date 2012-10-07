@@ -10,7 +10,7 @@ tags: []
 Part 4 - Active Record
 ======================
 
-[Back](../index.html)
+
 
 Basics
 ------
