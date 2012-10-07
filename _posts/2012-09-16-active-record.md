@@ -2,7 +2,7 @@
 layout: lesson
 title: "Active Record"
 description: ""
-category: Ruby
+category: database
 tags: []
 ---
 {% include JB/setup %}

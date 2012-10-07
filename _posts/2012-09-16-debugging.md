@@ -2,7 +2,7 @@
 layout: lesson
 title: "Ruby Debugging"
 description: ""
-category: Ruby
+category: ruby
 tags: []
 ---
 {% include JB/setup %}
